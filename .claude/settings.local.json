@@ -35,7 +35,9 @@
       "Bash(php -l app/Http/Controllers/Api/V1/DoctorController.php)",
       "Bash(php -l app/Http/Controllers/Api/V1/AppointmentController.php)",
       "Bash(php -l app/Http/Controllers/Api/V1/ReviewController.php)",
-      "Bash(php -l app/Http/Controllers/Api/V1/SpecialtyController.php)"
+      "Bash(php -l app/Http/Controllers/Api/V1/SpecialtyController.php)",
+      "Bash(./vendor/bin/pint:*)",
+      "Bash(git rm:*)"
     ]
   }
 }
