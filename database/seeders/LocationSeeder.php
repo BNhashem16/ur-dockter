@@ -556,18 +556,6 @@ class LocationSeeder extends Seeder
                 ],
             ],
 
-            // ── Comoros ────────────────────────────────────────────────
-            [
-                'name' => 'Comoros',
-                'code' => 'KM',
-                'phone_code' => '+269',
-                'states' => [
-                    ['name' => 'Grande Comore (Ngazidja)', 'cities' => ['Moroni', 'Mitsamiouli', 'Mbeni', 'Fomboni']],
-                    ['name' => 'Anjouan (Ndzuwani)', 'cities' => ['Mutsamudu', 'Domoni', 'Sima']],
-                    ['name' => 'Mohéli (Mwali)', 'cities' => ['Fomboni', 'Nioumachoua', 'Wanani']],
-                ],
-            ],
-
         ];
     }
 }
